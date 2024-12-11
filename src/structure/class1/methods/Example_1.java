@@ -20,5 +20,6 @@ public class Example_1 {
          Example_1 example2 =new Example_1(100, "karanfgh");
          example2.display();
 	}
+	
 
 }
