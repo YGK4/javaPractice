@@ -1,5 +1,7 @@
 package coreJava;
 
+import com.sample.examples.Inheritancechild;
+
 public class DataHandling {
 	String a = "Java Program";
 	static int l=30;
@@ -38,6 +40,8 @@ public class DataHandling {
 
 		System.out.println(l);
 		System.out.println(dataHandling_14.l);
+		Inheritancechild inheritancechild = new Inheritancechild();
+		inheritancechild.
 	}
 
 }
