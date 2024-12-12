@@ -41,7 +41,7 @@ public class DataHandling {
 		System.out.println(l);
 		System.out.println(dataHandling_14.l);
 		Inheritancechild inheritancechild = new Inheritancechild();
-		inheritancechild.
+		
 	}
 
 }
