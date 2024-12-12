@@ -1,7 +1,7 @@
 package coreJava;
 
 public class Variables {
-	static Byte b= 100;
+	static int b= 100;
 	public static void aa() {
 		
 		System.out.println(b);
