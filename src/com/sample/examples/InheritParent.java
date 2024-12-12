@@ -17,6 +17,7 @@ public class InheritParent {
 public void iphone14() {
 		
 		System.out.println("child class iphone14====parent");
+		
 	}
 
 }
