@@ -18,7 +18,9 @@ public class Inheitancechildlearn extends Inheritanceparentlearn {
 	public static void main(String [] args) {
 		
 		Inheitancechildlearn inc = new Inheitancechildlearn();
-		inc.add(20,30);
+		//inc.add(20,30);
+		AbstractChild abstractChild = new AbstractChild();
+		//abstractChild.age(inc);
 		
 	}
 }

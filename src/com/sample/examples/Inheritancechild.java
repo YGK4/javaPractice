@@ -2,7 +2,7 @@ package com.sample.examples;
 
 public class Inheritancechild extends InheritParent {
 
-	  int varible=10;
+	 final int varible=10;
 	private Object examInheritancechild;
 
 	
